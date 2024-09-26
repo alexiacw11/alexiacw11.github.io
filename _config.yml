@@ -1,8 +1,8 @@
-title: Alexia Wells # your name (or website title) here
+title: <center>Alexia Wells</center> # your name (or website title) here
 logo: "RetryHeadshot.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
 
- <br><br>
+ <br>
  <center>
  <a href="resumelinkhere">Resume</a> |
  <a href="https://www.linkedin.com/in/alexia-wells/">LinkedIn</a> |
@@ -14,8 +14,6 @@ description: > # your text below (remove <br> elements if you don't need line br
   <br><br>
   I also work as a course coordinator in the Statistics department at Brigham Young University. 
   <br><br>
-  <a href="https://www.linkedin.com/in/alexia-wells/">View My LinkedIn Profile</a> <br><br>
-
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
