@@ -2,28 +2,28 @@
 
 ---
 
-### Category Name 1 
+### Scrollable Projects
 
-[Project 1 Title](/sample_page)
+[Home Credit Default Risk](sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[Bike Share](sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
+[Creamery Rankings](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 
-### Category Name 2
+### All Projects
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+- [Home Credit Default Risk](http://example.com/)
+- [Bike Share](http://example.com/)
+- [Creamery Rankings](http://example.com/)
+- [Student Ratings](http://example.com/)
+- [Exam Analyses](http://example.com/)
 
 ---
 
