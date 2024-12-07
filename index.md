@@ -24,7 +24,7 @@
 
 ### Statistics Course Coordinator Projects
 
-- [Creamery Rankings](https://github.com/alexiacw11/CreameryRatings)
+- [Creamery Rankings](https://github.com/alexiacw11/CreameryRankings)
 - [Student Ratings](https://github.com/alexiacw11/StudentRatings)
 - [Exam Analyses](https://github.com/alexiacw11/ExamAnalyses)
 
