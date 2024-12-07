@@ -8,8 +8,7 @@
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Future Case Competition](sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Future Case Competition](FutureRepository.pdf)
 
 ---
 
