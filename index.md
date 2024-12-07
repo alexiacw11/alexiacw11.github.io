@@ -2,31 +2,32 @@
 
 ---
 
-### Scrollable Projects
+### Capestone Projects
 
 [Home Credit Default Risk](sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Bike Share](sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Creamery Rankings](http://example.com/)
+[Future Case Competition](sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 
-### All Projects
+### Kaggle Competitions
 
-- [Home Credit Default Risk](http://example.com/)
-- [Bike Share](http://example.com/)
-- [Creamery Rankings](http://example.com/)
-- [Student Ratings](http://example.com/)
-- [Exam Analyses](http://example.com/)
+- [Bike Share](https://github.com/alexiacw11/BikeShare)
+- [Amazon Employee Access](https://github.com/alexiacw11/AmazonEmployeeAccess)
+- [Item Store Demand](https://github.com/alexiacw11/ItemStoreDemand)
+- [Ghouls, Ghosts, and Goblins](https://github.com/alexiacw11/Ghouls-Goblins-and-Ghosts)
+- [Restaurant Revenue Prediction](https://github.com/alexiacw11/RestaurantRevenuePrediction)
 
 ---
 
+### Statistics Course Coordinator Projects
+
+- [Creamery Rankings](https://github.com/alexiacw11/CreameryRatings)
+- [Student Ratings](https://github.com/alexiacw11/StudentRatings)
+- [Exam Analyses](https://github.com/alexiacw11/ExamAnalyses)
 
 
 
