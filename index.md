@@ -6,7 +6,8 @@
 
 [Home Credit Default Risk](https://github.com/alexiacw11/HomeCreditDefaultRisk)
 
-<img src="Home_Credit_logo.svg.png" width=30%/>
+<img src="Home_Credit_logo.svg.png" width="30%"/>
+
 
 ---
 [Future Case Competition](FutureRepository.pdf)
