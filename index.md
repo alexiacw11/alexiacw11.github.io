@@ -5,7 +5,7 @@
 ### Capstone Projects
 
 [Home Credit Default Risk](https://github.com/alexiacw11/HomeCreditDefaultRisk)
-<img src=Home_Credit_logo.svg.png"/>
+<img src="Home_Credit_logo.svg.png"/>
 
 ---
 [Future Case Competition](FutureRepository.pdf)
