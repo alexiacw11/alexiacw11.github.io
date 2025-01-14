@@ -10,17 +10,16 @@
 
 
 ---
-[Future Case Competition](FutureRepository.pdf)
+[Swire Coca-Cola Case Competition](FutureRepository.pdf)
 
 ---
 
 ### Kaggle Competitions
 
+- [Restaurant Revenue Prediction](https://github.com/alexiacw11/RestaurantRevenuePrediction)
 - [Bike Share](https://github.com/alexiacw11/BikeShare)
 - [Amazon Employee Access](https://github.com/alexiacw11/AmazonEmployeeAccess)
-- [Item Store Demand](https://github.com/alexiacw11/ItemStoreDemand)
 - [Ghouls, Ghosts, and Goblins](https://github.com/alexiacw11/Ghouls-Goblins-and-Ghosts)
-- [Restaurant Revenue Prediction](https://github.com/alexiacw11/RestaurantRevenuePrediction)
 
 ---
 
@@ -29,8 +28,6 @@
 - [Creamery Rankings](https://github.com/alexiacw11/CreameryRankings)
 - [Student Ratings](https://github.com/alexiacw11/StudentRatings)
 - [Exam Analyses](https://github.com/alexiacw11/ExamAnalyses)
-
-
 
 ---
 
