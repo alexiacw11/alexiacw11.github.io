@@ -10,7 +10,7 @@
 
 
 ---
-[Swire Coca-Cola Case Competition](FutureRepository.pdf)
+[Swire Coca-Cola Case Competition](sample_page.md)
 
 ---
 
