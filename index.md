@@ -12,7 +12,7 @@
 ---
 [Swire Coca-Cola Case Competition](sample_page.md)
 
-<img src="swire_logo.png" width="30%"/>
+<img src="swire_logo.png" width="26%"/>
 
 ---
 
