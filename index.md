@@ -6,13 +6,13 @@
 
 [Home Credit Default Risk](https://github.com/alexiacw11/HomeCreditDefaultRisk)
 
-<img src="Home_Credit_logo.svg.png" width="30%"/>
+<img src="Home_Credit_logo.svg.png" width="26%"/>
 
 
 ---
 [Swire Coca-Cola Case Competition](sample_page.md)
 
-<img src="swire_logo.png" width="26%"/>
+<img src="swire_logo.png" width="30%"/>
 
 ---
 
