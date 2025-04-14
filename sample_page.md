@@ -17,4 +17,3 @@ To address this, SCCU must leverage historical sales data, customer profiles, an
 <li>How can Swire Coca-Cola use historical sales data, or other Customer Characteristics to predict which ARTM customers have the potential to grow beyond the volume threshold annually?
 <li>How can these insights be integrated into the routing strategy to support long-term growth while maintaining logistical efficiency?
 <li>What levers can be employed to accelerate volume and share growth at growth-ready, high-potential customers?
-</ol>
