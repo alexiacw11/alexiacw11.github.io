@@ -1,5 +1,5 @@
-## Swire Coca-Cola Capstone Project
-For this project, I was in a group with three other women. Our semester-long project concluded with a live, 20-minute presentation to Swire Coca-Cola’s Director of Data Science and other employees.
+## Swire Coca-Cola Capstone Project, Spring 2025
+This marked the conclusion of my studies in the MSBA program, as I participated in a semester-long case competition sponsored by Swire Coca-Cola. My team and I gave a 20-minute live presentation to the Director of Data Science and other key stakeholders. Our insights were well received; we won first place in the competition, and we were told our recommendations were going to be put into production!
 
 ### GitHub Repositories 
 There are two repositories from this experience, one that contains my findings and the repository we handed over to the company. The group findings are where our presentation and other deliverables can be found; this repository is more polished. Feel free to access it [here](https://github.com/leahekblad/MSBA-Capstone-Group-1) and parts of my work [here](https://github.com/alexiacw11/Alexia-sSwireRepo/tree/main).
