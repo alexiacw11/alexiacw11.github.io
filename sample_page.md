@@ -2,8 +2,7 @@
 For this project, I was in a group with three other women. Our semester-long project concluded with a live, 20-minute presentation to Swire Coca-Cola’s Director of Data Science and other employees.
 
 ### GitHub Repositories 
-There are two repositories from this experience, one that contains my findings and the repository we handed over to the company. With that said, the group findings are where our presentation and other deliverables can be found. Feel free to access my work [here](https://github.com/alexiacw11/Alexia-sSwireRepo/tree/main) and the group repository [here](https://github.com/leahekblad/MSBA-Capstone-Group-1).
-
+There are two repositories from this experience, one that contains my findings and the repository we handed over to the company. The group findings are where our presentation and other deliverables can be found; this repository is more polished. Feel free to access it [here](https://github.com/leahekblad/MSBA-Capstone-Group-1) and parts of my work [here](https://github.com/alexiacw11/Alexia-sSwireRepo/tree/main).
 
 ### Project Description 
 Swire Coca-Cola (SCUU) was interested in optimizing logistics by transitioning customers selling below a specific annual volume to an Alternate Route to Market (ARTM) or white truck delivery. This is intended to reduce delivery costs and improve operational efficiency. However, this approach poses a risk: some customers on the ARTM list may have the potential to exceed this volume threshold (and become very high volume Customers) through the organic growth of their business, or with active support from SCCU. Moving these growth-ready, or high-growth-potential customers to ARTM prematurely could hinder SCCU revenue growth and long-term business opportunities because they would not have the same level of contact with Customers using ARTM.
