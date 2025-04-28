@@ -21,7 +21,6 @@
 - [Restaurant Revenue Prediction](https://github.com/alexiacw11/RestaurantRevenuePrediction)
 - [Bike Share](https://github.com/alexiacw11/BikeShare)
 - [Amazon Employee Access](https://github.com/alexiacw11/AmazonEmployeeAccess)
-- [Ghouls, Ghosts, and Goblins](https://github.com/alexiacw11/Ghouls-Goblins-and-Ghosts)
 
 ---
 
