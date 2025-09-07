@@ -16,14 +16,6 @@
 
 ---
 
-### Kaggle Competitions
-
-- [Restaurant Revenue Prediction](https://github.com/alexiacw11/RestaurantRevenuePrediction)
-- [Bike Share](https://github.com/alexiacw11/BikeShare)
-- [Amazon Employee Access](https://github.com/alexiacw11/AmazonEmployeeAccess)
-
----
-
 ### Statistics Course Coordinator Projects
 
 - [Creamery Rankings](https://github.com/alexiacw11/CreameryRankings)
@@ -32,7 +24,15 @@
 
 ---
 
-### Hackathons at University of Utah
+### Kaggle Competitions
+
+- [Restaurant Revenue Prediction](https://github.com/alexiacw11/RestaurantRevenuePrediction)
+- [Bike Share](https://github.com/alexiacw11/BikeShare)
+- [Amazon Employee Access](https://github.com/alexiacw11/AmazonEmployeeAccess)
+
+---
+
+### Hackathons at the University of Utah
 - [DOMO Hackathon](https://github.com/alexiacw11/DOMOHackathon)
 
 ---
