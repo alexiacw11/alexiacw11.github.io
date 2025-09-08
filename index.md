@@ -8,6 +8,7 @@
 
 <img src="Home_Credit_logo.svg.png" width="26%"/>
 
+
 [Swire Coca-Cola Case Competition (Won First Place!)](sample_page.md)
 
 <img src="swire_logo.png" width="28%"/>
