@@ -36,3 +36,6 @@
 
 ---
 
+### Past Internships
+- [ST Engineering iDirect and RainFocus](https://github.com/alexiacw11/Internships)
+
