@@ -7,11 +7,11 @@ description: | # your text below (remove <br> elements if you don't need line br
  <a href="https://www.linkedin.com/in/alexia-wells/">LinkedIn</a> <br>
  <a href="https://alexiacw11.wixsite.com/spanish-portfolio">Spanish Proficiency</a> |
  <a href="https://github.com/alexiacw11">GitHub</a> <br><br>
- </center> 
+ </center> <p style="font-size: 9px;">
  Welcome to my page! I graduated with a Master of Science in Business Analytics from the David Eccles School of Business, University of Utah. I received bachelor's degrees from Brigham Young University in Statistics: Data Science and Spanish Studies.  
  <br><br>
  I am a Government Contractor working in Operations at the Army Applications Laboratory and am interested in operational and/or analytical roles in Austin, TX. 
- <br><br> 
+ <br><br> </p>
 
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
