@@ -1,17 +1,18 @@
 ## Portfolio
 
 ---
+### Operations Specialist Projects
+[2025-2026 AAL Annual Report](sample_page2.md)
 
 ### Capstone Projects
-
-[Home Credit Default Risk](https://github.com/alexiacw11/HomeCreditDefaultRisk)
-
-<img src="Home_Credit_logo.svg.png" width="26%"/>
-
 
 [Swire Coca-Cola Case Competition (Won First Place!)](sample_page.md)
 
 <img src="swire_logo.png" width="28%"/>
+
+[Home Credit Default Risk](https://github.com/alexiacw11/HomeCreditDefaultRisk)
+
+<img src="Home_Credit_logo.svg.png" width="26%"/>
 
 ---
 
