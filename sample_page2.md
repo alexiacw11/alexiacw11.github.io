@@ -3,10 +3,10 @@
 ### Context
 The annual report is released each March during SXSW and it is our Director’s opportunity to be fully transparent on how the year went. The annual report is a massive lift from the various teams at AAL and requires meticulous effort.
 
-As an Operations Specialist I had two main roles:
-Help with planning the multi-day event and ensuring coordination across the teams
-Use my background in Statistics and Business Analytics to organize our data from various sources, compile and transform the data into meaningful visualizations that tell a story
-
+As an Operations Specialist I had two main roles: <ol>
+<li> Help with planning the multi-day event and ensuring coordination across the teams</li>
+<li>Use my background in Statistics and Business Analytics to organize our data from various sources, compile and transform the data into meaningful visualizations that tell a story</li>
+</ol>
 Prior to my arrival in late September, the Director created whiteboard sketches of the charts and graphs she wanted to see on the annual report. When I saw them in November, I knew I wanted to recreate them in RStudio using fake data. My idea was to have the code prepared ahead of time, that way all I had to do was plug in the correct data after the fact. 
 
 ### Sketches vs. Initial Ideas
@@ -22,8 +22,10 @@ Here are all the types of graphs I made: USA States chart, scatterplot, boxplot,
 
 The most difficult visualization to create was the Gantt chart because of the requirements. I used the Ganntrify package which you can find here (https://github.com/giocomai/ganttrify). This package was a great starting point, but ultimately didn’t have all the functionality I needed. For instance, it would color a project and it’s subsequent points all the same color. Also, you could only put labels on those later points, not on the actual project itself. This required me to get creative, you can reference the code here(insert Gantt chart link). 
 
-My team takes branding very seriously, so I was told to get the visual as close as I could to done. The Communications team would finish up so the branding was aligned and looked perfect in the annual report. Below are my visualizations and if you would like to see the final product on the annual report, please take a look at it here (https://aal.mil/assets/files/pdf/aal-performance-report-2025.pdf).  
+Branding is taken seriously at AAL! I was told to get the visual as close as I could to done and the communications team would finish up so the branding was aligned and looked perfect. If you would like to see the final product in the annual report, please take a look at it here (https://aal.mil/assets/files/pdf/aal-performance-report-2025.pdf). Below are the visualizations I passed over to the comms team.  
+
 Maybe just show the finished visualizations with a brief description and have links to each individual thing..
+
 ### Code after to analyze the SXSW event
 During SXSW AAL had open and scheduled office hours. Here (linkhere) is some code I used to analyze our data. Please keep in mind I cannot reveal the actual results of this event.
 
