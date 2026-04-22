@@ -33,7 +33,7 @@
 ---
 
 ### Hackathons at the University of Utah
-- [DOMO Hackathon](https://github.com/alexiacw11/DOMOHackathon)
+- [DOMO Hackathon (Won Third Place!)](https://github.com/alexiacw11/DOMOHackathon)
 
 ---
 
