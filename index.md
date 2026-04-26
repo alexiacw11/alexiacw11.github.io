@@ -38,5 +38,6 @@
 ---
 
 ### Past Internships
-- [ST Engineering iDirect and RainFocus](https://github.com/alexiacw11/Internships)
+- [Software Engineer at ST Engineering iDirect](https://github.com/alexiacw11/Internships)
+- [Business Intelligence at RainFocus](https://github.com/alexiacw11/Internships)
 
