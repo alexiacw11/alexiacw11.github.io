@@ -19,11 +19,11 @@ Over the following weeks, I experimented with different packages and ways of uni
 As stated earlier, I initially used fake data because not all of the data was compiled. Creating and updating datasets was one role I had, one that all data scientists are used to! 
 
 ### Graphs
-Here are all the types of graphs I made: USA States chart, scatterplot, boxplot, beeswarm plot, waffle chart, pie chart, gantt chart, violin plot, and bar chart.
+Here are all the types of graphs I made: Choropleth map, scatterplot, boxplot, beeswarm plot, waffle chart, pie chart, gantt chart, violin plot, and bar chart.
 
-The most difficult visualization to create was the Gantt chart because of the requirements. I used the Ganntrify package which you can find here (https://github.com/giocomai/ganttrify). This package was a great starting point, but ultimately didn’t have all the functionality I needed. For instance, it would color a project and it’s subsequent points all the same color. Also, you could only put labels on those later points, not on the actual project itself. This required me to get creative, you can reference the code here(insert Gantt chart link). 
+The most difficult visualization to create was the Gantt chart because of the requirements. I used the Ganntrify package which you can find here(https://github.com/giocomai/ganttrify). This package was a great starting point, but ultimately didn’t have all the functionality I needed. For instance, it would color a project and it’s subsequent points all the same color. Also, you could only put labels on those later points, not on the actual project itself. This required me to get creative, you can reference the code here(insert Gantt chart link). 
 
-Branding is taken seriously at AAL! I was told to get the visual as close as I could to done and the communications team would finish up so the branding was aligned and looked perfect. If you would like to see the final product in the annual report, please take a look at it here (https://aal.mil/assets/files/pdf/aal-performance-report-2025.pdf). Below are the visualizations I passed over to the comms team.  
+Branding is taken seriously at AAL! I was told to get the visual as close as I could to done and the communications team would finish up so the branding was aligned and looked perfect. If you would like to see the final product in the annual report, please take a look at it here(https://aal.mil/assets/files/pdf/aal-performance-report-2025.pdf). Below are the visualizations I passed over to the comms team.  
 
 Maybe just show the finished visualizations with a brief description and have links to each individual thing..
 
