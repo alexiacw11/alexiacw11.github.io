@@ -7,6 +7,7 @@ As an Operations Specialist I had two main roles: <ol>
 <li> Help with planning the multi-day event and ensuring coordination across the teams</li>
 <li>Use my background in Statistics and Business Analytics to organize our data from various sources, compile and transform the data into meaningful visualizations that tell a story</li>
 
+
 Prior to my arrival in late September, the Director created whiteboard sketches of the charts and graphs she wanted to see on the annual report. When I saw them in November, I knew I wanted to recreate them in RStudio using fake data. My idea was to have the code prepared ahead of time, that way all I had to do was plug in the correct data after the fact. 
 
 ### Sketches vs. Initial Ideas
