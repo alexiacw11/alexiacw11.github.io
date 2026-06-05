@@ -1,7 +1,7 @@
 ## AAL Annual Report, March 2026
 
 ### Context
-The annual report is released each March during SXSW and it is our Director’s opportunity to be fully transparent on how the year went. The annual report is a massive lift from the various teams at AAL and requires meticulous effort.
+The annual report is released each March during SXSW and it is our Director’s opportunity to be fully transparent on how the year went. The annual report is a massive lift from the various teams at AAL and requires meticulous effort. You can find my graphics and charts on pages 6-25 - https://aal.mil/assets/files/pdf/aal-performance-report-2025.pdf. 
 
 As an Operations Specialist I had two main roles:
 <li> Help with planning the multi-day event and ensuring coordination across the teams</li>
